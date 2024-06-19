@@ -1,0 +1,19 @@
+body {
+    font-size: 14px;
+    font-family: sans-serif
+    color: darkslategrey
+}
+
+ol {font-size: 16px}
+
+p {font-size: 16px}
+
+.thefoot {
+    font-size: 15px;
+    color: cadetblue
+}
+
+.bold{font-weight: bold}
+.ital{font-style: italic}
+
+li {font-weight: normal}
